@@ -7,11 +7,11 @@ environment:
   sdk: '>=3.2.3 <4.0.0'
 
 dependencies:
+  dartz: ^0.10.1
+  equatable: ^2.0.5
   flutter:
     sdk: flutter
-
-  equatable: ^2.0.5
-  dartz: ^0.10.1
+  http: ^1.2.1
 
 dev_dependencies:
   flutter_test:
